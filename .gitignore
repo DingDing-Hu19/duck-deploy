@@ -1,0 +1,9 @@
+*.json
+*.xlsx
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
+cfg_*.json
+res_*.json
+tmp_*.xlsx
