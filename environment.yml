@@ -1,0 +1,17 @@
+name: streamlit-r-app
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - r-base=4.4
+  - r-dplyr
+  - r-tidyverse
+  - pip
+  - pip:
+      - streamlit
+      - pandas
+      - numpy
+      - scipy
+      - matplotlib
+      - plotly
